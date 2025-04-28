@@ -1,2 +1,3 @@
 # GeocodeScript
+Googleのスプレットシートに住所を入力するとGoogleマップに対応する座標を拾ってきます。
 
